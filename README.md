@@ -6,7 +6,7 @@ Hi, I'm **Dhruv Gupta**, an aspiring developer who loves solving problems and bu
 - 🧩 Currently solving problems on **LeetCode** (backtracking, arrays, sorting)
 - 🌱 Learning: Web Development, Java, Development tools
 - 🎯 Goal: Get an internship and become a software developer
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at: dhruvedition@gmail.com
 
 ### 🔗 Connect with me
 
