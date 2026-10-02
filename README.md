@@ -1,6 +1,6 @@
-<h2 data-importer="text" align="left">## 👋 About Me<br><br>Hi, I'm **[Your Name]**, a [student / aspiring developer / software engineer] who loves solving problems and building things with code.<br><br>- 💻 I mainly code in **C++** and enjoy practicing **Data Structures & Algorithms**<br>- 🧩 Currently solving problems on **LeetCode** (backtracking, arrays, sorting)<br>- 🌱 Learning: [Web Development / Java / Python / Development tools]<br>- 🎯 Goal: [Get an internship / become a software developer]<br>- 📫 Reach me at: [your-email@example.com]<br><br>
+<h2 data-importer="text" align="left">## 👋 About Me<br><br>Hi, I'm Dhruv Gupta, a  aspiring developer  who loves solving problems and building things with code.<br><br>- 💻 I mainly code in **C++** and enjoy practicing **Data Structures & Algorithms**<br>- 🧩 Currently solving problems on **LeetCode** (backtracking, arrays, sorting)<br>- 🌱 Learning: [Web Development / Java / Python / Development tools]<br>- 🎯 Goal: [Get an internship / become a software developer]<br>- 📫 Reach me at: [your-email@example.com]<br><br>
 ### 🛠️ Tech Stack<br>![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)<br><br>
-### 🔗 Connect with me<br>[LinkedIn](https://linkedin.com/in/your-username) | [LeetCode](https://leetcode.com/your-username) | [GitHub](https://github.com/your-username)</h2>
+### 🔗 Connect with me<br>[LinkedIn](https://linkedin.com/in/your-username) | [LeetCode](https://leetcode.com/dhruv_hereyo) | [GitHub](https://github.com/dhruvgupta-og)</h2>
 
 ###
 
