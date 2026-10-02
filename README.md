@@ -10,7 +10,7 @@ Hi, I'm **Dhruv Gupta**, an aspiring developer who loves solving problems and bu
 
 ### 🔗 Connect with me
 
-[LinkedIn](https://linkedin.com/in/your-username) | [LeetCode](https://leetcode.com/dhruv_hereyo) | [GitHub](https://github.com/dhruvgupta-og)
+[LinkedIn](https://linkedin.com/in/dhruv-hereyo0) | [LeetCode](https://leetcode.com/dhruvhereyo) | [GitHub](https://github.com/dhruvgupta-og)
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
