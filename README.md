@@ -1,16 +1,16 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Dheuv%20Gupta&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Dhruv%20Gupta&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Developer%20%7C%20Learner%20%7C%20Builder&descAlignY=58&descSize=20" width="100%" />
 
 <!-- Typing animation -->
 <div align="center">
-  <a href="https://github.com/dheuvgupta-og">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dheuv+Gupta;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+collaborate+on+exciting+projects" alt="Typing SVG" />
+  <a href="https://github.com/dhruvgupta-og">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Dhruv+Gupta;Building+cool+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+shipping+%E2%9C%A8;Open+to+collaborate+on+exciting+projects" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dheuvgupta-og&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/dheuvgupta-og?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=dhruvgupta-og&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/dhruvgupta-og?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27" alt="followers" />
 </div>
 
 ---
@@ -18,8 +18,8 @@
 ## 👨‍💻 About Me
 
 ```js
-const dheuv = {
-  username: "dheuvgupta-og",
+const dhruv = {
+  username: "dhruvgupta-og",
   location: "India 🇮🇳",
   currentlyLearning: ["System Design", "Cloud", "AI / ML"],
   currentlyBuilding: "Awesome side projects",
@@ -50,12 +50,12 @@ const dheuv = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dheuvgupta-og&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dheuvgupta-og&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dhruvgupta-og&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvgupta-og&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dheuvgupta-og&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=dhruvgupta-og&theme=tokyonight&hide_border=true" alt="streak" />
 </div>
 
 ---
@@ -63,7 +63,7 @@ const dheuv = {
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dheuvgupta-og&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhruvgupta-og&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 </div>
 
 ---
@@ -71,7 +71,7 @@ const dheuv = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dheuvgupta-og&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvgupta-og&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
 </div>
 
 ---
@@ -79,7 +79,7 @@ const dheuv = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dheuvgupta-og/dheuvgupta-og/output/github-snake-dark.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/dhruvgupta-og/dhruvgupta-og/output/github-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ const dheuv = {
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/dheuvgupta-og"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/dhruvgupta-og"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
